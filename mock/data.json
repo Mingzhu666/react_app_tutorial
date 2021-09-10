@@ -1,0 +1,25 @@
+{
+  "managers": [
+    {
+      "id": 1,
+      "name": "Mingzhu Wan"
+    },
+    {
+      "id": 2,
+      "name": "Stella Wan"
+    },
+    {
+      "id": 3,
+      "name": "Ming Wan"
+    },
+    {
+      "id": 4,
+      "name": "Mingming Wan"
+    }
+  ],
+  "projects": [
+    {
+
+    }
+  ]
+}
